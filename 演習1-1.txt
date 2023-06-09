@@ -1,0 +1,11 @@
+演習1-1
+	DBMSの情報確認
+
+①	使用しているDBMSのバージョン：MariaDB Ver 10.4.28
+	最新のバージョン：Ver 10.11.3
+
+②	エディション：なし
+
+③	マニュアルの所在：https://mariadb.com/kb/ja/mariadb/
+
+
